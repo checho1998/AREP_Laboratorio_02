@@ -1,12 +1,12 @@
 # LABORATORIO AREP 01
 
-Se realizo este repositorio cumpliendo con los requerimientos de un problema planteado en clase por el profesor y que consiste en realizar diferentes calculos como lo es calcular la media y la desviacion estandar,guardando estos datos en una Linkedlist que contiene Nodos con el valor deseados y sus respectivos apuntadores a los otros Nodos.
+Se realizo este repositorio cumpliendo con los requerimientos de un problema planteado en clase por el profesor y que consiste en realizar diferentes calculos como lo es calcular la media y la desviacion estandar en una pagina web,guardando estos datos en una Linkedlist que contiene Nodos con el valor deseados y sus respectivos apuntadores a los otros Nodos, Dando asi las .
 
 ## Utilidades
  
-- Podra calcular la Media de una LinkedList que extiende de List.
-- Podra calcular la desviacion estandar de una LinkedList.
-- Encontrar implementada la LinkedList en el codigo fuente.
+- Podra calcular la Media de una LinkedList que extiende de List por medio de la pagina Web.
+- Podra calcular la desviacion estandar de una LinkedList por medio de la pagina Web.
+- Encontrara implementada la LinkedList en el codigo fuente.
 - Se encuentra en el codigo fuente la implementacion de un Nodo con sus apuntadores.
 
 ## Como Instalarla:
