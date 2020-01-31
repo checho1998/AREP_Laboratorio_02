@@ -6,8 +6,6 @@ Se realizo este repositorio cumpliendo con los requerimientos de un problema pla
 
 https://laboratorio-arep-02.herokuapp.com/inputdata
 
-## Despliegue continuo
-[![CircleCI](https://circleci.com/gh/checho1998/2019-1-PROYCVDS-NU-EZ_CHIRIVI_RODRIGUEZ.svg?style=svg)](https://circleci.com/gh/checho1998/2019-1-PROYCVDS-NU-EZ_CHIRIVI_RODRIGUEZ)
 ## Utilidades
  
 - Podra calcular la Media de una LinkedList que extiende de List por medio de la pagina Web.
