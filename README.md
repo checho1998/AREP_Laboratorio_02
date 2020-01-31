@@ -2,6 +2,12 @@
 
 Se realizo este repositorio cumpliendo con los requerimientos de un problema planteado en clase por el profesor y que consiste en realizar diferentes calculos como lo es calcular la media y la desviacion estandar en una pagina web,guardando estos datos en una Linkedlist que contiene Nodos con el valor deseados y sus respectivos apuntadores a los otros Nodos, Dando asi las .
 
+## Link aplicación web
+
+https://laboratorio-arep-02.herokuapp.com/inputdata
+
+## Despliegue continuo
+[![CircleCI](https://circleci.com/gh/checho1998/2019-1-PROYCVDS-NU-EZ_CHIRIVI_RODRIGUEZ.svg?style=svg)](https://circleci.com/gh/checho1998/2019-1-PROYCVDS-NU-EZ_CHIRIVI_RODRIGUEZ)
 ## Utilidades
  
 - Podra calcular la Media de una LinkedList que extiende de List por medio de la pagina Web.
